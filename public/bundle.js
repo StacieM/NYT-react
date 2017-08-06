@@ -21322,7 +21322,7 @@
 					React.createElement("br", null),
 					React.createElement(
 						"button",
-						{ type: "button", className: "btn btn-success", style: { 'float': 'right', 'marginTop': '-39px' }, onClick: boundClick },
+						{ type: "button", className: "btn btn-primary", style: { 'float': 'right', 'marginTop': '-39px' }, onClick: boundClick },
 						"Delete"
 					)
 				);
