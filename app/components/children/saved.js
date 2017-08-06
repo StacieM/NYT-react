@@ -31,7 +31,7 @@ var Saved = React.createClass({
 
 		return(
 
-			<div className="panel panel-success">
+			<div className="panel panel-primary">
 				<div className="panel-heading">
 					<h3 className="panel-title text-center"><strong>Saved Articles</strong></h3>
 				</div>

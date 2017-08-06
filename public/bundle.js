@@ -19834,7 +19834,7 @@
 					{ className: 'row' },
 					React.createElement(
 						'div',
-						{ className: 'jumbotron', style: { 'backgroundImage': 'url(./../images/newspaper.jpg)', 'backgroundRepeat': 'no-repeat', 'backgroundPosition': 'center', 'backgroundSize': '100% 100%', 'backgroundAttachment': 'fixed' } },
+						{ className: 'jumbotron', style: { 'backgroundImage': 'url(./../images/nyt.jpg)', 'backgroundRepeat': 'no-repeat', 'backgroundPosition': 'center', 'backgroundSize': '100% 100%', 'backgroundAttachment': 'fixed' } },
 						React.createElement(
 							'h2',
 							{ className: 'text-center', style: { 'color': 'white', 'textShadow': '3px 3px 10px black', 'fontSize': '54px' } },
@@ -21124,7 +21124,7 @@
 
 			return React.createElement(
 				"div",
-				{ className: "panel panel-primary" },
+				{ className: "panel panel-warning" },
 				React.createElement(
 					"div",
 					{ className: "panel-heading" },
@@ -21336,7 +21336,7 @@
 
 			return React.createElement(
 				"div",
-				{ className: "panel panel-success" },
+				{ className: "panel panel-primary" },
 				React.createElement(
 					"div",
 					{ className: "panel-heading" },
