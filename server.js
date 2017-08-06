@@ -29,7 +29,7 @@ db.on('error', function (err) {
 });
 
 db.once('open', function () {
-  console.log('Mongoose connection ful.');
+  console.log('Mongoose connection successful.');
 });
 
 app.get('/', function(req, res){
